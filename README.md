@@ -1,4 +1,4 @@
-# SHREC 2021, Protein Shape Retrieval and Classification Challenge
+# [SHREC 2021, Protein Shape Retrieval and Classification Challenge](http://shrec.ge.imati.cnr.it/shrec21_protein/)
 
 This repository contain implementation  of two different 3D shape retrieval algorithms (methods) applied on gthe SHREC 2021 datasets on Retrieval and classification of protein surfaces equipped with physical & chemicalproperties.
 * Further details regarding this retrieval track can be found **[here](http://shrec.ge.imati.cnr.it/shrec21_protein/)**.
