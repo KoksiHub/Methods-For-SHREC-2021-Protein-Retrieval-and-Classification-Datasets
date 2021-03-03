@@ -19,7 +19,7 @@ For a given query, the goal of the track is twofold: to retrieve the most simila
 See reference for the above **[here](http://shrec.ge.imati.cnr.it/shrec21_protein/)**.
 
 ### Additional notes
-- The HAPPS method produces results for Run A (Run-1a, Run-2a, and Run-3a).
-- The HP4-EDA method produces results for Run B (Run-1b, Run-2b, and Run-3b).
+- The ***[HAPPS method](https://github.com/KoksiHub/Methods-For-SHREC-2021-Protein-Retrieval-and-Classification-Datasets/blob/main/method%20HAPPS%20for%20Geometry%20Data/HAPPS_3Dretrievalmethod.py)*** produces results for Run A (Run-1a, Run-2a, and Run-3a).
+- The ***[HP4-EDA methods](https://github.com/KoksiHub/Methods-For-SHREC-2021-Protein-Retrieval-and-Classification-Datasets/tree/main/method%20HP4-EDA%20for%20Chemical%20Data)*** produce results for Run B ([Run-1b](https://github.com/KoksiHub/Methods-For-SHREC-2021-Protein-Retrieval-and-Classification-Datasets/blob/main/method%20HP4-EDA%20for%20Chemical%20Data/HP4EDA_physicochemical_descriptorRun1b.py), [Run-2b](https://github.com/KoksiHub/Methods-For-SHREC-2021-Protein-Retrieval-and-Classification-Datasets/blob/main/method%20HP4-EDA%20for%20Chemical%20Data/HP4EDA_physicochemical_descriptorRun2b.py), and [Run-3b](https://github.com/KoksiHub/Methods-For-SHREC-2021-Protein-Retrieval-and-Classification-Datasets/blob/main/method%20HP4-EDA%20for%20Chemical%20Data/HP4EDA_physicochemical_descriptorRun3b.py.py)).
 
 Both of our methods are completely implemeted in Python 3.6. We strictly adopt the FOP (Functional Oriented Programming) coding style for all functions and algorithms presented here.
